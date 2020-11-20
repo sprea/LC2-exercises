@@ -1,0 +1,6 @@
+#ignora i file prodotti dall'assembler
+*.bin
+*.hex
+*.lst
+*.obj
+*.sym
