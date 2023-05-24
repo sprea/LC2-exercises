@@ -1,2 +1,2 @@
-# Esecizi LC2
-Contiene gli esercizi scritti in assembly del corso Architettura degli elaboratori
+# LC2 exercises
+Assembly exercises for the computer architecture course @ Unimi
